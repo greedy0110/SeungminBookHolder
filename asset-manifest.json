@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SeungminBookHolder/static/css/main.5f361e03.chunk.css",
+    "main.js": "/SeungminBookHolder/static/js/main.73269862.chunk.js",
+    "main.js.map": "/SeungminBookHolder/static/js/main.73269862.chunk.js.map",
+    "runtime-main.js": "/SeungminBookHolder/static/js/runtime-main.28db68d1.js",
+    "runtime-main.js.map": "/SeungminBookHolder/static/js/runtime-main.28db68d1.js.map",
+    "static/js/2.95e4145a.chunk.js": "/SeungminBookHolder/static/js/2.95e4145a.chunk.js",
+    "static/js/2.95e4145a.chunk.js.map": "/SeungminBookHolder/static/js/2.95e4145a.chunk.js.map",
+    "index.html": "/SeungminBookHolder/index.html",
+    "precache-manifest.e6105fa0cf9a69b45dc7ab2860f4628b.js": "/SeungminBookHolder/precache-manifest.e6105fa0cf9a69b45dc7ab2860f4628b.js",
+    "service-worker.js": "/SeungminBookHolder/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/SeungminBookHolder/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.95e4145a.chunk.js.LICENSE.txt": "/SeungminBookHolder/static/js/2.95e4145a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/SeungminBookHolder/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28db68d1.js",
+    "static/js/2.95e4145a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.73269862.chunk.js"
+  ]
+}
