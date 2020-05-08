@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SeungminBookHolder/precache-manifest.e6105fa0cf9a69b45dc7ab2860f4628b.js"
+  "/SeungminBookHolder/precache-manifest.4e64a478042bff27ba0d1ec204de2d5a.js"
 );
 
 self.addEventListener('message', (event) => {
